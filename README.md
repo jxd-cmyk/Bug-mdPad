@@ -3,6 +3,10 @@ Bug mdPad is a focused Markdown and plain-text editor for Windows.
 
 <img width="600" height="534" alt="Bug mdPad" src="https://github.com/user-attachments/assets/408e38a6-669d-467d-b426-e94558d6a2e0" />
 
+# Available in [Microsoft Store](https://apps.microsoft.com/detail/9p4s1sjvxv9k?hl=en-US&gl=CZ)
+# Photo [Jaroslav M. Soukup](mailto:jsoukup1@seznam.cz)
+# Photo [Jiří X. Doležal](mailto:jxd@jxd.cz)
+
 Give your notes a clear shape. Write Markdown with a live preview, insert syntax with a click, export to HTML and print formatted documents. 
 
 Put your words on the left. See the formatted result on the right.
